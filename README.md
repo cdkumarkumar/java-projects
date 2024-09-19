@@ -1,0 +1,3 @@
+The Patient Record Management System is a user-friendly Java Swing application designed to facilitate the management of patient records in a healthcare setting. 
+Users can easily input essential details such as the patient's name, age, and gender, which are then stored and displayed in a list format. This system ensures that all fields are validated to prevent incomplete entries, providing a smooth user experience. The graphical interface allows for intuitive navigation, making it accessible for users with varying levels of technical expertise.
+Overall, the application aims to streamline the process of managing patient information, enhancing efficiency in record-keeping.
